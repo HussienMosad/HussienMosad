@@ -26,7 +26,8 @@ I am passionate about <strong>problem solving</strong>, <strong>programming</str
 <li>🎯 Goal: Becoming stronger at algorithms & competitive programming.</li>
 </ul>
 
-<div style="width:60%;"><hr/></div>
+<div style="width:65%; border-top: 1px solid #666; margin:10px 0;"></div>
+
 
 <h2>🚀 Some Tools I Use</h2>
 
