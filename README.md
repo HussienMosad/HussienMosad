@@ -41,13 +41,16 @@ I am passionate about <strong>problem solving</strong>, <strong>programming</str
 
 <div align="left">
 
-- 🎮 [Stone 🪨 Paper 📄 Scissor ✂ Game](https://github.com/HussienMosad/-Stone---Paper---Scissor-)  
+- 🎮 [Stone 🪨 Paper 📄 Scissor ✂ Game](https://github.com/HussienMosad/-Stone---Paper---Scissor-)
+-  🎮 [MathGame](https://github.com/HussienMosad/MathGame)
 
 </div>
 
 <p align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
+  
+
 
 ---
 
