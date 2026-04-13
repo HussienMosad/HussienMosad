@@ -1,5 +1,5 @@
 
-<h2>Hey 👋, I'm Hussein Mosad</h2>
+<h2>Hey 👋, I'm Hussien Mosad</h2>
 
 <p>
 I'm currently a student at <strong>Faculty of Computers and Artificial Intelligence, Cairo University</strong> 🎓 (Second Year).  
