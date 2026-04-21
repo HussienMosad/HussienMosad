@@ -45,6 +45,7 @@ I am passionate about <strong>problem solving</strong>, <strong>programming</str
 -  🎮 [MathGame](https://github.com/HussienMosad/MathGame)
 - 🎵 [AudioPlayer](https://github.com/HussienMosad/CS213-Assignment2-AudioPlayer)
 -  🏦 [S7S-Bank-System](https://github.com/HussienMosad/S7S-Bank-System-)
+-  🍕  [Pizza_S7S](https://github.com/HussienMosad/PizzaS7S)
 </div>
 
 <p align="right">
