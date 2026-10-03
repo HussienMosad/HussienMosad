@@ -19,8 +19,8 @@ I am passionate about <strong>problem solving</strong>, <strong>programming</str
 <h2>⚡️ A Few Quick Facts</h2>
 
 <ul>
-<li>🎓 I’m a 2nd year student at <strong>Cairo University</strong>.</li>
-<li>💻 Learning and coding mainly in <strong>C++</strong>.</li>
+<li>🎓 I’m a 3rd year student at <strong>Cairo University</strong>.</li>
+<li>💻 Learning and coding mainly in <strong>C++ , C#</strong>.</li>
 <li>🧩 Interested in <strong>problem solving</strong> and improving my programming skills.</li>
 <li>📚 Always curious to explore new technologies and computer science topics.</li>
 <li>🎯 Goal: Becoming stronger at algorithms & competitive programming.</li>
